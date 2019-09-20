@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.com/HarshitDoshi/zo_appbar.svg?branch=master)](https://travis-ci.com/HarshitDoshi/zo_appbar)
+
+**The builds are failing, PLEASE DON"T USE THIS PACKAGE YET!**
+
 # zo_appbar
 
 an appbar for the zoworld
