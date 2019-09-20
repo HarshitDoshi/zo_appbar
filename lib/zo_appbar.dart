@@ -14,7 +14,6 @@ class ZOAppBar extends StatefulWidget implements PreferredSizeWidget {
   );
 
   @override
-  // TODO: implement preferredSize
   Size get preferredSize => Size.fromHeight(50.0);
 
   final double elevation;

@@ -11,7 +11,6 @@ void main() {
   testWidgets('ZOAppBar Test', (WidgetTester tester) async {
     await tester.pumpWidget(app);
     expect(find.byType(RichText), findsOneWidget);
-    expect(find.byType(TextSpan), findsNWidgets(3));
     expect(find.byType(TextStyle), findsNWidgets(3));
     expect(find.byType(Container), findsOneWidget);
     expect(find.byType(BoxDecoration), findsOneWidget);
