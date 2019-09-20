@@ -1,3 +1,7 @@
+## [0.0.3] - 09/21/2019
+
+* Updated the description for an improved pub score
+
 ## [0.0.2] - 09/20/2019
 
 * Updated the README, builds are still failing.
