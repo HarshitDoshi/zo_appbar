@@ -1,4 +1,5 @@
 library zo_appbar;
+
 import 'package:flutter/material.dart';
 
 class ZOAppBar extends StatefulWidget implements PreferredSizeWidget {
