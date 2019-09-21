@@ -14,4 +14,4 @@ This is an appbar designed by me for an upcoming project which I have codenamed 
 
 ## Screenshot
 
-[![Example Screenshot](Example_Screenshot.jpg)]
+![Example Screenshot](Example_Screenshot.jpg)
