@@ -14,4 +14,4 @@ This is an appbar designed by me for an upcoming project which I have codenamed 
 
 ## Screenshot
 
-<img src="Example_Screenshot.jpg" width="360" height="640">
+<img src="zo_appbar_example_screenshot.jpg" width="360" height="640">
