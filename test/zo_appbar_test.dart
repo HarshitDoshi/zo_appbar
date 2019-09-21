@@ -10,9 +10,6 @@ void main() {
   );
   testWidgets('ZOAppBar Test', (WidgetTester tester) async {
     await tester.pumpWidget(app);
-    expect(find.byType(RichText), findsOneWidget);
-    expect(find.byType(Container), findsOneWidget);
-    expect(find.byType(BoxDecoration), findsOneWidget);
-    expect(find.byType(LinearGradient), findsOneWidget);
+    expect(find.byType(AppBar), findsOneWidget);
   });
 }
