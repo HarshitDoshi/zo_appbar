@@ -14,4 +14,4 @@ This is an appbar designed by me for an upcoming project which I have codenamed 
 
 ## Screenshot
 
-<img src="Example_Screenshot.jpg" width="720" height="1280">
+<img src="Example_Screenshot.jpg" width="360" height="640">
