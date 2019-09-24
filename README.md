@@ -10,4 +10,4 @@ This is an appbar designed by me for an upcoming project which I have codenamed 
 
 ## Screenshot
 
-<img src="zo_appbar_example_screenshot.jpg" width="360" height="640">
+You will find a screenshot depicting zo_appbar, [here.](https://github.com/HarshitDoshi/zo_appbar/blob/master/zo_appbar_example_screenshot.jpg "zo_appbar screenshot")
