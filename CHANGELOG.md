@@ -1,3 +1,10 @@
+## [0.0.4] - 09/24/2019
+
+* Added a proper example app.
+* Added a screenshot in the README.
+* Rewrote tests.
+* Builds are now passing!
+
 ## [0.0.3] - 09/21/2019
 
 * Updated the description for an improved pub score
