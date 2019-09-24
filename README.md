@@ -2,7 +2,7 @@
 
 # zo_appbar
 
-an appbar for the zoworld
+an appbar for the zoworld (zoworld is an upcoming collection of apps developed by me)
 
 ## About
 
