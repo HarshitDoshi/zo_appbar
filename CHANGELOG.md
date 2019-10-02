@@ -1,3 +1,7 @@
+## [0.0.5] - 09/24/2019
+
+* Updated the README as it wasn't correctly displaying the screenshot on pub.dev.
+
 ## [0.0.4] - 09/24/2019
 
 * Added a proper example app.
